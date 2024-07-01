@@ -1,0 +1,21 @@
+# ninja log v5
+2	8034	7411908727483932	YaRa12_autogen/timestamp	531261fd37a17ae0
+2	8034	7411908727483932	YaRa12_autogen/mocs_compilation.cpp	531261fd37a17ae0
+2	8034	7411908727483932	C:/Users/Meena/Downloads/YaRa12/YaRa12/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/YaRa12_autogen/timestamp	531261fd37a17ae0
+2	8034	7411908727483932	C:/Users/Meena/Downloads/YaRa12/YaRa12/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/YaRa12_autogen/mocs_compilation.cpp	531261fd37a17ae0
+8036	9372	7411908743405043	YaRa12_autogen/EWIEGA46WW/qrc_res.cpp	52b971f654826244
+8036	9372	7411908743405043	C:/Users/Meena/Downloads/YaRa12/YaRa12/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/YaRa12_autogen/EWIEGA46WW/qrc_res.cpp	52b971f654826244
+9375	16050	7411908793628990	CMakeFiles/YaRa12.dir/main.cpp.obj	20777617fb2448d4
+9584	16057	7411908805768521	CMakeFiles/YaRa12.dir/register_dialog.cpp.obj	eaa9eb8285acc5dc
+9837	19367	7411908843424488	CMakeFiles/YaRa12.dir/mainwindow.cpp.obj	b2f3309b6ad9c892
+10029	19998	7411908849750580	CMakeFiles/YaRa12.dir/gamewindow1.cpp.obj	14153915e7f8389d
+10288	21501	7411908864790541	CMakeFiles/YaRa12.dir/ai_or_2.cpp.obj	25e2df056b3c001d
+10982	23145	7411908881230765	CMakeFiles/YaRa12.dir/GameManager.cpp.obj	9e34ca24be12d724
+10472	23288	7411908882658060	CMakeFiles/YaRa12.dir/game_or_history.cpp.obj	9595a93cda55143d
+11589	25099	7411908900761293	CMakeFiles/YaRa12.dir/gameai.cpp.obj	2785cc36c4e9d912
+13038	25766	7411908907444849	CMakeFiles/YaRa12.dir/easyhard.cpp.obj	c8f550d402d337f5
+15091	28668	7411908936436779	CMakeFiles/YaRa12.dir/easy_ai.cpp.obj	c26cffce2b8712ba
+15428	30267	7411908952418316	CMakeFiles/YaRa12.dir/replaygame.cpp.obj	829a9461d84cf205
+15652	31432	7411908964058132	CMakeFiles/YaRa12.dir/YaRa12_autogen/mocs_compilation.cpp.obj	e5454541686cd863
+14033	46848	7411909118138712	CMakeFiles/YaRa12.dir/YaRa12_autogen/EWIEGA46WW/qrc_res.cpp.obj	7b8a57858e066eb1
+46852	51052	7411909160178353	YaRa12.exe	d3c7d0aa00fa496a
