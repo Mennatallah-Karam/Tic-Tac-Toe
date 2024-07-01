@@ -2,6 +2,7 @@ name: Build Qt Project
 
 on: push
 
+
 jobs:
   build:
     name: Build Qt Project
